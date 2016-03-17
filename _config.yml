@@ -1,7 +1,7 @@
-name: noahe
+name: Noah Eichen
 favicon: null
-layout_spectrum: 0.23498276085592806
-typography_spectrum: 0.5854153377003968
+layout_spectrum: 0.29369
+typography_spectrum: 0.3042
 title: Director
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.8887092336080968
+  brandStrength: 0.625
   lightness: 0.46519302064552903
-  saturation: 0.4298600312322378
+  saturation: 0.5625
   rhythmicContrast: 0.4198797249700874
 purpose: []
