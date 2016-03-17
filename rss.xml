@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[noahe]]></title>
+        <description><![CDATA[noahe]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 17 Mar 2016 21:35:42 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[HUNT THE TRUTH]]></title>
+            <description><![CDATA[<article><h1>HUNT THE TRUTH</h1><p>HUNT THE TRUTH is an award-winning scripted audio series and social campaign created to support the release of Xbox/343i tentpole franchise, Halo 5: Guardians.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/02f5340c-2984-4fc9-be7b-0cada9c0a809.jpg"></article>]]></description>
+            <link>undefinedhunt-the-truth/index.html</link>
+            <guid isPermaLink="false">bbbda3b5-c983-4528-8ce8-5732a2c5d173</guid>
+            <pubDate>Thu, 17 Mar 2016 21:35:32 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
